@@ -31,7 +31,7 @@
 - 📫 How to reach me: marianohuecke@hotmail.com 
 - 😄 Pronouns: Tatino 
 
-- Found me on:
+-  Meet me at:
   <a href="https://www.linkedin.com/in/marianohuecke/">
 
   <img align="left" alt="Linkedin" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
