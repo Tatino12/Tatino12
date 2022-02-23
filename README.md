@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["PostgreSQL", "Postman"],
+   },
+};
+
 <!--
 **Tatino12/tatino12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
