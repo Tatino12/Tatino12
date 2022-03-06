@@ -26,12 +26,11 @@
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-   
       <br />
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
    <code><img width="10%" src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/prisma.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
- 
+      <br />
    
 - 📫 How to reach me: marianohuecke@hotmail.com 
 - 😄 Pronouns: Tatino 
