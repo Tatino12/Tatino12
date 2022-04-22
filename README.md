@@ -12,7 +12,7 @@
 
    
 - ## :star: Languages and Tools:
-     
+   <code><img width="10%" height="45" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_solidity.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
    <code><img height="40" width="10%" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/redux.svg"></code>
