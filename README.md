@@ -1,6 +1,8 @@
 
 
-## Hi world 👋
+
+
+## Hi world 👋 <img src="https://github.com/Tatino12/Tatino12/images/dev-working_rounded.gif?raw=true" href="https://github.com/Tatino12" alt="CoDiNg RocKs"  width="550"/><br>
 <h2> I'm Mariano a Developer ❤️ from Argentina to 🌎! <img src="https://media1.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif?cid=ecf05e47mfgbch172e3hb2x9dpvne7a35d90l43z31yn3bna&rid=giphy.gif&ct=g" height="80" width="110"> </h2>
  </br>
  
