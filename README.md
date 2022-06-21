@@ -1,7 +1,10 @@
 
 
-### Hi world 👋
+## Hi world 👋
 <h2> I'm Mariano a Developer ❤️ from Argentina to 🌎! <img src="https://media1.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif?cid=ecf05e47mfgbch172e3hb2x9dpvne7a35d90l43z31yn3bna&rid=giphy.gif&ct=g" height="80" width="110"> </h2>
+ </br>
+ 
+ > <a> 🌱 I’m currently learning Solidity </a>
 
 
 - <p>Full Stack Web Developer at <a href="https://www.soyhenry.com">Henry</a> <img src="https://media1.giphy.com/media/jmYJF3hGctoOI/200.webp?cid=ecf05e47thm9807om47g6qwqs5ymjcextavm5z761hicoizh&rid=200.webp&ct=g" height="80" width="100"/>
@@ -35,11 +38,15 @@
 - 📫 How to reach me: marianohuecke@hotmail.com 
 - 😄 Pronouns: Tatino 
 
--  Meet me at:
-  <a href="https://www.linkedin.com/in/marianohuecke/">
-
-  <img align="left"  alt="Linkedin" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-     </a>
-     <a href="https://hueckeportfolio.vercel.app">
-   <img align="left"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
-   </a>
+-  Meet me at: <a href="https://www.linkedin.com/in/marianohuecke/"><img align="center"  alt="Linkedin" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+     </a>  
+   
+   
+   <br />
+   👨‍💻 All of my projects are available at   <a href="https://hueckeportfolio.vercel.app">
+   <img align="center"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
+   </a>  <br />
+   📄 Know about my experiences
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatino12&show_icons=true&locale=en&layout=compact" alt="Tatino12" /></p>
+   
