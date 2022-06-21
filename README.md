@@ -14,9 +14,8 @@
 - <p><em>Public Accountant at <a href="https://www.palermo.edu">University of Palermo</a> <img src="https://media3.giphy.com/media/rKuIcYO506tzjKIvy9/giphy.webp?cid=ecf05e4700qlbbosbez6cjl7u43si7dr0ixwizhquuwc4t66&rid=giphy.webp&ct=s" height="60" width="80" />
 
    
-
    
-- ## :star: Languages and Tools:
+ ## :star: Languages and Tools:
    <code><img width="10%" height="45" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_solidity.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -44,10 +43,8 @@
      </a>  
    
    
-   <br />
-   👨‍💻 All of my projects are available at   <a href="https://hueckeportfolio.vercel.app">
-   <img align="center"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
-   </a>  <br />
+
+  
  
  # Quick stats about me: ![GitHub last commit](https://img.shields.io/github/last-commit/tatino12/tatino12) ![pv](https://pageview.vercel.app/?github_user=tatino12)
 
