@@ -2,9 +2,9 @@
 
 
 
-## Hi world 👋 <img src="https://github.com/Tatino12/Tatino12/blob/main/images/Developer.gif?raw=true" href="https://github.com/Tatino12" alt="CoDiNg RocKs"  width="150"/><br> <img align="right" src="https://github.com/Tatino12/Tatino12/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="450"/> <br>
+## Hi world 👋 <img src="https://github.com/Tatino12/Tatino12/blob/main/images/Developer.gif?raw=true" href="https://github.com/Tatino12" alt="CoDiNg RocKs"  width="150"/> <img align="right" src="https://github.com/Tatino12/Tatino12/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="450"/> 
 <h2> I'm Mariano a Developer ❤️ from Argentina to 🌎!  </h2>
- </br>
+ 
  
  > <a> 🌱 I’m currently learning Solidity </a>
 
@@ -48,7 +48,16 @@
    👨‍💻 All of my projects are available at   <a href="https://hueckeportfolio.vercel.app">
    <img align="center"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
    </a>  <br />
-  
+ 
+ ### Quick stats about me
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/tatino12/tatino12)<br />
+![pv](https://pageview.vercel.app/?github_user=tatino12)
+ 
+
+![Sy's github stats](https://github-readme-stats.vercel.app/api?username=tatino12&show_icons=true&count_private=true)  
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatino12&show_icons=true&locale=en&layout=compact" alt="Tatino12" /></p>
-   
+
+ 
+
