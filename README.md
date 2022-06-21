@@ -1,10 +1,10 @@
 
 
 ### Hi world 👋
-<h2> I'm Mariano a Developer from Argentina! <img src="https://media1.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif?cid=ecf05e47mfgbch172e3hb2x9dpvne7a35d90l43z31yn3bna&rid=giphy.gif&ct=g" height="80" width="110"> </h2>
+<h2> I'm Mariano a Developer ❤️ from Argentina to 🌎! <img src="https://media1.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif?cid=ecf05e47mfgbch172e3hb2x9dpvne7a35d90l43z31yn3bna&rid=giphy.gif&ct=g" height="80" width="110"> </h2>
 
 
-- <p>Full Stack Web Development at <a href="https://www.soyhenry.com">Henry</a> <img src="https://media1.giphy.com/media/jmYJF3hGctoOI/200.webp?cid=ecf05e47thm9807om47g6qwqs5ymjcextavm5z761hicoizh&rid=200.webp&ct=g" height="80" width="100"/>
+- <p>Full Stack Web Developer at <a href="https://www.soyhenry.com">Henry</a> <img src="https://media1.giphy.com/media/jmYJF3hGctoOI/200.webp?cid=ecf05e47thm9807om47g6qwqs5ymjcextavm5z761hicoizh&rid=200.webp&ct=g" height="80" width="100"/>
 
 - <p><em>Public Accountant at <a href="https://www.palermo.edu">University of Palermo</a> <img src="https://media3.giphy.com/media/rKuIcYO506tzjKIvy9/giphy.webp?cid=ecf05e4700qlbbosbez6cjl7u43si7dr0ixwizhquuwc4t66&rid=giphy.webp&ct=s" height="60" width="80" />
 
