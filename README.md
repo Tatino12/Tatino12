@@ -2,8 +2,8 @@
 
 
 
-## Hi world 👋 <img src="https://github.com/Tatino12/Tatino12/blob/main/images/Developer.gif?raw=true" href="https://github.com/Tatino12" alt="CoDiNg RocKs"  width="150"/><br> <img src="https://github.com/Tatino12/Tatino12/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="125"/> <br>
-<h2> I'm Mariano a Developer ❤️ from Argentina to 🌎! <img src="https://media1.giphy.com/media/dUpzvFEQjZqD7vNS2m/giphy.gif?cid=ecf05e47mfgbch172e3hb2x9dpvne7a35d90l43z31yn3bna&rid=giphy.gif&ct=g" height="80" width="110"> </h2>
+## Hi world 👋 <img src="https://github.com/Tatino12/Tatino12/blob/main/images/Developer.gif?raw=true" href="https://github.com/Tatino12" alt="CoDiNg RocKs"  width="150"/><br> <img align="right" src="https://github.com/Tatino12/Tatino12/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="450"/> <br>
+<h2> I'm Mariano a Developer ❤️ from Argentina to 🌎!  </h2>
  </br>
  
  > <a> 🌱 I’m currently learning Solidity </a>
@@ -48,7 +48,7 @@
    👨‍💻 All of my projects are available at   <a href="https://hueckeportfolio.vercel.app">
    <img align="center"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
    </a>  <br />
-   📄 Know about my experiences
+  
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatino12&show_icons=true&locale=en&layout=compact" alt="Tatino12" /></p>
    
