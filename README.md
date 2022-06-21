@@ -49,15 +49,16 @@
    <img align="center"  alt="portfolio" width="34px" height="34px" src="https://flyclipart.com/thumb2/portfolio-icons-download-free-png-and-vector-icons-unlimited-186409.png" />
    </a>  <br />
  
- ### Quick stats about me
+ # Quick stats about me: ![GitHub last commit](https://img.shields.io/github/last-commit/tatino12/tatino12) ![pv](https://pageview.vercel.app/?github_user=tatino12)
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/tatino12/tatino12)<br />
-![pv](https://pageview.vercel.app/?github_user=tatino12)
  
 
 ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=tatino12&show_icons=true&count_private=true)  
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatino12&show_icons=true&locale=en&layout=compact" alt="Tatino12" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tatino12&show_icons=true&locale=en&layout=compact" alt="Tatino12" />
 
  
+ 
+ 
 
+ 
